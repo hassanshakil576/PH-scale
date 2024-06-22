@@ -1,0 +1,108 @@
+body{
+    background-color: #bebfc0;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+.div-one{
+    background-color: #2682c5;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+
+.div-two{
+    background-color: #2791cf;
+    color: #ffffff;
+   padding: 5px;
+
+}
+.div-three{
+    background-color: #219ed9;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-four{
+    background-color: #35a7dd;
+    color: #ffffff;
+    padding: 5px;
+    
+
+}
+.div-five{
+    background-color: #55b5e6;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-six{
+    background-color: #73c0eb;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-seven{
+    background-color: #90cbee;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-eight{
+    background-color: #1bb585;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-nine{
+    background-color: #f4aecd;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-ten{
+    background-color: #f39bc0;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-eleven{
+    background-color: #f38cb4;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-twelve{
+    background-color: #f179a5;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-thirteen{
+    background-color: #f16997;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-fourteen{
+    background-color: #f0578b;
+    color: #ffffff;
+    padding: 5px;
+    
+}
+.div-fifteen{
+    background-color: #ee337e;
+    color: #ffffff;
+    padding: 5px;
+  
+}
